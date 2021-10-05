@@ -22,7 +22,7 @@ with publicly released code, allowing outside contributions to be considered in 
 INSTALLATION
 ------------
 The main folder contains the Python code that allows to execute the software using a Python interpreter. In that case the program interface 'EUCAMv1 - 
-interpreted.xlsm' must be used. We use Python 3.8 64 bit and Python libraries listed in 'requirements.txt'. Before running the program please sprecify the complete Python interpreter path in cell B9 of Sheet 'Source files'.
+interpreted.xlsm' must be used. We use Python 3.8 64 bit and Python libraries listed in 'requirements.txt'. Before running the program please sprecify the complete Python interpreter path in cell B9 of Sheet 'Source files' of the Excel interface.
 
 EUCAM_Software_Installer folder contains an installer that allows to install a compiled version of the program (EUCAMv1.exe).
 NO NEED in this case for Python interpreter installation.
