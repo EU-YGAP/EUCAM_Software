@@ -2,7 +2,7 @@ EUCAM Software is a user-friendly tool aimed at simplifying the process of calcu
 production function methodology (henceforth referred to as the EUCAM i.e. the EU's Commonly Agreed Methodology).
 
 In terms of policy use, potential output and output gap estimates are essential for assessing the productive (supply side) capacity and the cyclical (demand side)
-positions of all of the EU's economies. They are estimated by DG ECFIN, using the transparent EUCAM rules as agreed by the Economic Policy Committee0s Output Gap
+positions of all of the EU's economies. They are estimated by DG ECFIN, using the transparent EUCAM rules as agreed by the Economic Policy Committee's Output Gap
 Working Group and the EPC and endorsed by the ECOFIN Council.
 
 The estimates are applied in the framework of various economic and fiscal surveillance processes. More speciffically, the output gap indicator is used to cyclically
