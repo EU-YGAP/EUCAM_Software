@@ -1,0 +1,40 @@
+# ----------------------
+# List of all countries 
+# ----------------------
+&fullcountrylist
+ countrylist = 'at, be, bg, cy, cz, de, dk, ee, el, es, fi, fr, hr, hu, ie, it, lt, lu, lv, mt, nl, pl, pt, ro, se, si, sk, uk, us'
+&end
+# ------------------
+# Source files info  
+# ------------------
+&sourcefiles
+ name_current_vintage = '2020_AUTUMN_F'
+ last_year_data = '2022'
+ name_previous_vintage = '2020_SPRING_F'
+ last_year_data_previous_vintage = '2021'
+ ameco_data_file = 'rats_final_2020_10_27_mod.xlsx'
+ cubs_data_file = 'CUBS_TO_GAP_A2020.xlsx'
+ population_data_file = 'popprojA2020.xlsx'
+ Number_of_countries = '29'
+&end
+# -------------------
+# OG country list
+# -------------------
+&OGcountrylist
+ countrylist = '
+&end
+# -------------------
+# TFP country list   
+# -------------------
+&TFPcountrylist
+ countrylist = ''
+&end
+# -------------------
+# NAWRU country list   
+# -------------------
+&NAWRUcountrylist
+ countrylist = ''
+&end
+# -------------------
+# HP settings        
+# -------------------

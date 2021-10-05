@@ -1,0 +1,7 @@
+
+EUCAM v1 - log creation time : 2021-10-01 14:14:57
+--------------------------------------------------
+
+The configuration file (ConfigurationFile.nml) could not be read, the program will stop...
+Please create it and pass the "vintage name" to the program if you use command line execution. (e.g. EUCAMv1.exe 2020_AUTUMN_F).
+   Or use the program interface -> EUCAMv1.xslm...
