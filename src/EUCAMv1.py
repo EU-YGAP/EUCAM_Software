@@ -198,7 +198,7 @@ def main():
     ameco = ameco.T
 
     cubs = pd.read_excel(datapath + confignml['sourcefiles']['cubs_data_file'], index_col=0, header=0)
-    popproj = pd.read_excel(datapath + confignml['sourcefiles']['population_data_file'], sheet_name="to rats", header=0, index_col=0)
+    popproj = pd.read_excel(datapath + confignml['sourcefiles']['population_data_file'], header=0, index_col=0) # (2021-10-05) remove reference to sheet name, first sheet is read by default
     popproj = popproj.T
     # NOTE : the popproj file as years as string (excel formula) -> convert index to integer on the fly
     popproj.index = popproj.index.astype('int64')

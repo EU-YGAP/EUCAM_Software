@@ -29,3 +29,7 @@ complete Python interpreter path in cell B9 of Sheet 'Source files' of the Excel
 EUCAM_Software_Installer folder contains an installer that allows to install a compiled version of the program (EUCAMv1.exe).
 NO NEED in this case for Python interpreter installation.
 
+SOFTWARE EXECUTION
+------------------
+Please refer to the user manual (i.e. EUCAMv1_user_manual.pdf) for detailed instructions on how to use the program.
+
